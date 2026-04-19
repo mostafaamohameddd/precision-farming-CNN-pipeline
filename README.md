@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cnn_architecture.png" width="800" alt="CNN Architecture">
+  <img src="assets/cnn_architecture.png" width="850" alt="CNN Architecture Overview">
 </p>
 #  Precision Farming: AI-Powered Plant Disease Detection
 
