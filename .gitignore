@@ -1,0 +1,12 @@
+# Dataset Folders
+plant_data/
+data/
+*.zip
+
+# Python & Notebook Cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Model Checkpoints 
+# *.keras
+# *.h5

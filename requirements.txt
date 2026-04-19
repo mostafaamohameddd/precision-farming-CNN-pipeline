@@ -1,0 +1,4 @@
+tensorflow>=2.15.0
+matplotlib>=3.7.0
+kaggle>=1.5.0
+jupyter>=1.0.0
