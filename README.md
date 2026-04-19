@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/cnn_architecture.png" width="850" alt="CNN Architecture Overview">
 </p>
+
 #  Precision Farming: AI-Powered Plant Disease Detection
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
